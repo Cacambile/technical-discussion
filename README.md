@@ -17,4 +17,4 @@ this is the [notebook](https://colab.research.google.com/drive/1d6SpRoG-7R2IuQg_
 
 ### Images
 
-![Image](https://github.com/user-attachments/assets/84500f6c-0f0c-45ff-94b5-49d7c3ce4926)
+![Image](https://github.com/user-attachments/assets/1349003f-96f7-44a6-82bf-53ab8eb21445)
